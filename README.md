@@ -46,6 +46,8 @@ In OBS you will set the streaming server to custom and in the server type: rtmp:
 
 ![enter image description here](https://i.imgur.com/HekiBVj.png)
 
-Once you start streaming your desktop then in the Video Player in ChilloutVR you can using rtsp url which will looks something like this.
+Once you start streaming your desktop then in the Video Player in ChilloutVR you can use a rtsp url which will looks something like this.
 
 **rtsp://YourDigitalOceansIP:8554/MyKey**
+
+Enjoy!
