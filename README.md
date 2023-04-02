@@ -42,7 +42,7 @@ Paste this command in to Putty to start a basic Rtsp server. You can do more sec
 ```
 docker run --rm -it -e RTSP_PROTOCOLS=tcp -p 8554:8554 -p 1935:1935 aler9/rtsp-simple-server
 ```
-In OBS you will set the streaming server to custom and in the server type: rtmp://YourDigitalOceansIP with they Key being anything you want.
+In OBS you will set the streaming server to custom and in the server type: rtmp://YourDigitalOceansIP with the Key being anything you want.
 
 ![enter image description here](https://i.imgur.com/HekiBVj.png)
 
