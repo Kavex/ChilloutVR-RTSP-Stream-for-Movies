@@ -1,6 +1,6 @@
 ### Running your own RTSP server
 
-Running a RTSP server with digital ocean ocean is fairly easy but you will need to have some knowledge of [Putty](https://www.putty.org/) and [OBS](https://obsproject.com/download).
+Running a RTSP server with digital ocean server is fairly easy but you will need to have some knowledge of [Putty](https://www.putty.org/) and [OBS](https://obsproject.com/download).
 
 These instructions can work on any docker setup but we will be using digtalocean server because they are cheap and easy to setup. 
 
@@ -50,4 +50,4 @@ Once you start streaming your desktop then in the Video Player in ChilloutVR you
 
 **rtsp://YourDigitalOceansIP:8554/MyKey**
 
-Enjoy!
+You are not streaming your desktop, pull up whatever you would like to stream on the video player. 
