@@ -4,9 +4,9 @@ Running a RTSP server with digital ocean server is fairly easy but you will need
 
 These instructions can work on any docker setup but we will be using digtalocean server because they are cheap and easy to setup. 
 
-### Setting up a DigitalOcean server
+### Setting up a DigitalOcean server 
 
- 1.    Create an account at  [https://www.digitalocean.com/](https://www.digitalocean.com/)
+ 1.    Create an account at  [https://www.digitalocean.com/](https://m.do.co/c/602b8fcc8c76)
     
  2.   Create a droplet
 
